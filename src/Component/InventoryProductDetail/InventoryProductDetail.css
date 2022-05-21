@@ -1,0 +1,5 @@
+.product-details-wrapper{
+    display: flex;
+    border-bottom: 1px solid #F5F5F5;
+    padding: 30px 0;
+}

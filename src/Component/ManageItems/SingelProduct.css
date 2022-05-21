@@ -1,0 +1,29 @@
+.product-card{
+    border: 1px solid #948888;
+    padding: 30px 20px;
+    position: relative;
+}
+.product-name{
+    text-align: center;
+}
+.delete-icon{
+    width: 80px!important;
+}
+.delete-btn-wrapper{
+    text-align: right;
+}
+.delete-btn{
+    /* position: absolute; */
+    border: 0;
+    background-color: transparent;
+    top: 0;
+    right: 0;
+}
+.product-quantity{
+    text-align: center;
+}
+.singel-product-wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}

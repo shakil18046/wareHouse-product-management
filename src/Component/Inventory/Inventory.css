@@ -1,0 +1,16 @@
+.inventory-product-wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding-top: 60px;
+}
+.inventory-singel-product{
+    border: 1px solid #a59b9b;
+    padding: 30px 20px;
+}
+.inventory-product-btn{
+    border: 0;
+    padding: 13px 25px;
+    background-color: rgb(236, 244, 151);
+    
+}

@@ -1,0 +1,16 @@
+.container img{
+    width: 100%;
+}
+.custom-grid{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 40px;
+}
+.partner-heading{
+    color: #60AD56;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3.2px;
+    padding-bottom: 40px;
+}

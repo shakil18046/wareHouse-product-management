@@ -1,0 +1,30 @@
+.banner-area{
+    padding: 60px 0;
+    background-color: red;
+}
+.banner-area{
+    padding: 60px 0;
+    background: url(../../img/banner.png);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+}
+.banner-content{
+    text-transform: capitalize;
+    text-align: right;
+    color: #ffffff;
+
+}
+.banner-content h1 {
+    font-size: 60px;
+}
+.shop-now-btn{
+    padding: 13px 28px;
+    font-size: 16px;
+    background-color: #59c879;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.signInWithGoogle img{
+    width: 50px;
+}
+.signInWithGoogle{
+    border: 0;
+    font-size: 18px;
+    padding: 13px 30px;
+}
+.login-error{
+    color: red;
+}
